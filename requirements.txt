@@ -17,3 +17,4 @@ flask-httpauth
 schedule
 captcha
 standard-imghdr
+markupsafe==2.0.1
